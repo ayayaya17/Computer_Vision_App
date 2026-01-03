@@ -6,3 +6,6 @@ seaborn
 numpy
 nltk
 PyPDF2
+torch
+torchvision
+pillow
